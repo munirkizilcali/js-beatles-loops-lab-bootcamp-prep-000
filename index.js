@@ -16,5 +16,9 @@ function johnLennonFacts(array) {
 }
 
 function iLoveTheBeatles(n) {
-  
+  var straptula = []
+  do {
+    straptula.push("I love the Beatles!")
+    n++
+  } while(n < 15)
 }
